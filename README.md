@@ -2,7 +2,7 @@
 Server for the Canon Ivy 2 mini photo printer
 
 Notes: 
-- click [here]() for the go library repository
+- click [here](https://github.com/zoeeechu/poisonIvy) for the go library repository
 - This Server/library has only been tested for windows...
 
 The go library is a direct clone of the Python API: https://github.com/dtgreene/ivy2 
